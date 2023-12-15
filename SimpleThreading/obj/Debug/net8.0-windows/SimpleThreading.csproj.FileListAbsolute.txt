@@ -1,0 +1,35 @@
+W:\OneDrive - dwwwtan\SimpleThreading\SimpleThreading\bin\Debug\net8.0-windows\SimpleThreading.exe
+W:\OneDrive - dwwwtan\SimpleThreading\SimpleThreading\bin\Debug\net8.0-windows\SimpleThreading.deps.json
+W:\OneDrive - dwwwtan\SimpleThreading\SimpleThreading\bin\Debug\net8.0-windows\SimpleThreading.runtimeconfig.json
+W:\OneDrive - dwwwtan\SimpleThreading\SimpleThreading\bin\Debug\net8.0-windows\SimpleThreading.dll
+W:\OneDrive - dwwwtan\SimpleThreading\SimpleThreading\bin\Debug\net8.0-windows\SimpleThreading.pdb
+W:\OneDrive - dwwwtan\SimpleThreading\SimpleThreading\obj\Debug\net8.0-windows\SimpleThreading.Form1.resources
+W:\OneDrive - dwwwtan\SimpleThreading\SimpleThreading\obj\Debug\net8.0-windows\SimpleThreading.MainForm.resources
+W:\OneDrive - dwwwtan\SimpleThreading\SimpleThreading\obj\Debug\net8.0-windows\SimpleThreading.csproj.GenerateResource.cache
+W:\OneDrive - dwwwtan\SimpleThreading\SimpleThreading\obj\Debug\net8.0-windows\SimpleThreading.GeneratedMSBuildEditorConfig.editorconfig
+W:\OneDrive - dwwwtan\SimpleThreading\SimpleThreading\obj\Debug\net8.0-windows\SimpleThreading.AssemblyInfoInputs.cache
+W:\OneDrive - dwwwtan\SimpleThreading\SimpleThreading\obj\Debug\net8.0-windows\SimpleThreading.AssemblyInfo.cs
+W:\OneDrive - dwwwtan\SimpleThreading\SimpleThreading\obj\Debug\net8.0-windows\SimpleThreading.csproj.CoreCompileInputs.cache
+W:\OneDrive - dwwwtan\SimpleThreading\SimpleThreading\obj\Debug\net8.0-windows\SimpleThreading.dll
+W:\OneDrive - dwwwtan\SimpleThreading\SimpleThreading\obj\Debug\net8.0-windows\refint\SimpleThreading.dll
+W:\OneDrive - dwwwtan\SimpleThreading\SimpleThreading\obj\Debug\net8.0-windows\SimpleThreading.pdb
+W:\OneDrive - dwwwtan\SimpleThreading\SimpleThreading\obj\Debug\net8.0-windows\SimpleThreading.genruntimeconfig.cache
+W:\OneDrive - dwwwtan\SimpleThreading\SimpleThreading\obj\Debug\net8.0-windows\ref\SimpleThreading.dll
+S:\Downloads\SimpleThreading\SimpleThreading\bin\Debug\net8.0-windows\SimpleThreading.exe
+S:\Downloads\SimpleThreading\SimpleThreading\bin\Debug\net8.0-windows\SimpleThreading.deps.json
+S:\Downloads\SimpleThreading\SimpleThreading\bin\Debug\net8.0-windows\SimpleThreading.runtimeconfig.json
+S:\Downloads\SimpleThreading\SimpleThreading\bin\Debug\net8.0-windows\SimpleThreading.dll
+S:\Downloads\SimpleThreading\SimpleThreading\bin\Debug\net8.0-windows\SimpleThreading.pdb
+S:\Downloads\SimpleThreading\SimpleThreading\obj\Debug\net8.0-windows\SimpleThreading.MainForm.resources
+S:\Downloads\SimpleThreading\SimpleThreading\obj\Debug\net8.0-windows\SimpleThreading.csproj.GenerateResource.cache
+S:\Downloads\SimpleThreading\SimpleThreading\obj\Debug\net8.0-windows\SimpleThreading.GeneratedMSBuildEditorConfig.editorconfig
+S:\Downloads\SimpleThreading\SimpleThreading\obj\Debug\net8.0-windows\SimpleThreading.AssemblyInfoInputs.cache
+S:\Downloads\SimpleThreading\SimpleThreading\obj\Debug\net8.0-windows\SimpleThreading.AssemblyInfo.cs
+S:\Downloads\SimpleThreading\SimpleThreading\obj\Debug\net8.0-windows\SimpleThreading.csproj.CoreCompileInputs.cache
+S:\Downloads\SimpleThreading\SimpleThreading\obj\Debug\net8.0-windows\SimpleThreading.dll
+S:\Downloads\SimpleThreading\SimpleThreading\obj\Debug\net8.0-windows\refint\SimpleThreading.dll
+S:\Downloads\SimpleThreading\SimpleThreading\obj\Debug\net8.0-windows\SimpleThreading.pdb
+S:\Downloads\SimpleThreading\SimpleThreading\obj\Debug\net8.0-windows\SimpleThreading.genruntimeconfig.cache
+S:\Downloads\SimpleThreading\SimpleThreading\obj\Debug\net8.0-windows\ref\SimpleThreading.dll
+S:\Downloads\SimpleThreading\SimpleThreading\obj\Debug\net8.0-windows\SimpleThreading.FileTransfer.resources
+S:\Downloads\SimpleThreading\SimpleThreading\obj\Debug\net8.0-windows\SimpleThreading.Threading.resources
